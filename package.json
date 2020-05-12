@@ -1,0 +1,21 @@
+{
+  "name": "list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arnur-K/list.git"
+  },
+  "keywords": [],
+  "author": "Arnur Kupanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arnur-K/list/issues"
+  },
+  "homepage": "https://github.com/Arnur-K/list#readme",
+  "bin": {
+    "nls": "index.js"
+  }
+}
