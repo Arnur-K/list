@@ -17,5 +17,8 @@
   "homepage": "https://github.com/Arnur-K/list#readme",
   "bin": {
     "nls": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0"
   }
 }
